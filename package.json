@@ -1,0 +1,19 @@
+{
+  "name": "hello-world-art",
+  "version": "1.0.0",
+  "description": "display calculation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deepakaureate/npm-hello-world.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deepakaureate/npm-hello-world/issues"
+  },
+  "homepage": "https://github.com/deepakaureate/npm-hello-world#readme"
+}
